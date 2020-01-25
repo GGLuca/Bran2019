@@ -1,6 +1,6 @@
 # R în pași mici (un workshop)
 
-Aici se află datele, documentația și exercițiile pentru workshop-ul de o zi "*R* în pași mici", de la Bran, 2019.
+Aici se află datele, documentația și exercițiile pentru cursului "*R* în pași mici", de la Școala de Iarnă APIO de la Bran, 3-8 februarie 2020.
 
 ## Descrierea cursului
 
@@ -15,7 +15,7 @@ Vom incepe de la zero: de la prezentarea mediului de lucru, RStudio și citirea 
 3. R (ultima versiune este 3.6.2)
 4. RStudio
 
-Pentru punctul `1` și `2`, nu putem fi făcuți responsabili. Pentru trei și patru, urmați pașii de mai jos:
+Pentru punctul `1` și `2`, nu putem fi făcuți responsabili. Pentru `3` și `4`, urmați pașii de mai jos:
 
 ## R
 
@@ -27,4 +27,4 @@ Programul de bază R pe care tocmai l-ați instalat nu este însă ușor de folo
 
 ## Contact:
 
-Pentru întrebări și detalii, un simplu mail ~~ajunje~~ ajunge.
+Pentru întrebări și detalii, aici: [`George Luca`](https://www.psychologie.wiso.uni-erlangen.de/team/wissenschaftliche-mitarbeiterinnen/george-luc)a/
