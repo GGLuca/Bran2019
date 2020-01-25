@@ -1,21 +1,21 @@
 # R în pași mici (un workshop)
 
-Aici se află datele, documentația și exercițiile pentru cursului "*R* în pași mici", de la Școala de Iarnă APIO de la Bran, 3-8 februarie 2020.
+În acest *repository* se află datele, documentația și exercițiile pentru cursului "*R* în pași mici", de la Școala de Iarnă organizată de APIO la Bran, 3-8 februarie 2020.
 
 ## Descrierea cursului
 
-R este un limbaj de programare (încă nu fugiți, vă rog) extrem de putenic și flexibil ce oferă opțiuni solide pentru analiza datelor, vizualizarea și comunicarea rezultatelor. În acest curs, voi incerca să va ofer o introducere și uneltele necesare pentru a putea naviga mai târziu singuri cu ușurință prin tot acest mediu.
+R este un limbaj de programare (încă nu fugiți, vă rog) extrem de putenic și flexibil ce oferă opțiuni solide pentru analiza datelor, vizualizarea lor precum și comunicarea reproductibilă a rezultatelor. În acest curs, voi incerca să va ofer o introducere și uneltele necesare pentru a putea naviga mai târziu singuri cu ușurință prin tot acest mic labirint.
 
 Vom incepe de la zero: de la prezentarea mediului de lucru, RStudio și citirea datelor până la manipularea lor și vizualizarea rezultatelor. Mai mult, vă voi prezenta și RMarkdown, un sistem de adnotare și technoredactare a documentelor știintifice.
 
 ## Material necesar:
 
-1. Cafea (absolut necesară!)
-2. Laptop (nu uitați încărcătorul)
+1. Cafea
+2. Laptop (nu uitați încărcătorul) / fara tablete.
 3. R (ultima versiune este 3.6.2)
 4. RStudio
 
-Pentru punctul `1` și `2`, nu putem fi făcuți responsabili. Pentru `3` și `4`, urmați pașii de mai jos:
+Pentru punctul `1` și `2`, nu putem fi făcuți responsabili. Dar punctele `3` și `4` vă sunt absolut necesare.
 
 ## R
 
@@ -27,4 +27,4 @@ Programul de bază R pe care tocmai l-ați instalat nu este însă ușor de folo
 
 ## Contact:
 
-Pentru întrebări și detalii, aici: [`George Luca`](https://www.psychologie.wiso.uni-erlangen.de/team/wissenschaftliche-mitarbeiterinnen/george-luc)a/
+Pentru întrebări și detalii, aici: [`George Luca`](https://www.psychologie.wiso.uni-erlangen.de/team/wissenschaftliche-mitarbeiterinnen/george-luca/)
