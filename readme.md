@@ -1,0 +1,1 @@
+# R în pași mici
